@@ -34,7 +34,7 @@ export default function Hero() {
         </RoughNotationGroup>
       </div>
       {/* Image container */}
-      <div className="lg:block relative w-full md:w-full -mr-40 mt-20">
+      <div className="lg:block relative w-full md:w-32 -mr-40 mt-20">
         <div className="w-3/4 ">
           <img src={userData.avatarUrl} alt="avatar" className=" shadow" />
           <div className="flex flex-row justify-between mt-4">
