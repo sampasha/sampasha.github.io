@@ -8,45 +8,25 @@ const userData = {
   address: "127.0.0.1",
   projects: [
     {
-      title: "Tailwind Master Kit",
-      link: "https://tailwindmasterkit.com",
-      imgUrl: "/tmk.jpg",
+      title: "Stack Connect",
+      link: "https://github.com/sampasha/stack-connect",
+      imgUrl: "/architecture.png",
     },
     {
-      title: "PlaceholderTech",
-      link: "https://placeholdertech.in",
-      imgUrl: "/placeholdertech.png",
+      title: "SeeFood",
+      link: "https://github.com/sampasha/SeeFood",
+      imgUrl: "/Seefood.png",
     },
     {
-      title: "Portfolio",
-      link: "https://manuarora.in",
-      imgUrl: "/portfolio.png",
+      title: "Police Killings in the US",
+      link: "https://github.com/IAT-814-Dashboard/Police-Killings-in-the-US",
+      imgUrl: "/IAT.png",
     },
     {
-      title: "CovidRescue",
-      link: "https://covidrescue.co.in",
-      imgUrl: "/covidrescue.png",
-    },
-    {
-      title: "Algochurn",
-      link: "https://algochurn.com",
-      imgUrl: "/algochurn.png",
-    },
-    {
-      title: "Playground",
-      link: "https://play.placeholdertech.in",
-      imgUrl: "/playground.png",
-    },
-    {
-      title: "Feedmeback",
-      link: "https://feedmeback.vercel.app",
-      imgUrl: "/feedmeback.png",
-    },
-    {
-      title: "Devmedium",
-      link: "https://devmedium.vercel.app",
-      imgUrl: "/devmedium.png",
-    },
+      title: "Google Image Scraper",
+      link: "https://github.com/sampasha/Google-image-Scraper",
+      imgUrl: "/google.png",
+    }
   ],
   about: {
     title:
